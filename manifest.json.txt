@@ -1,0 +1,15 @@
+
+{
+
+"name":"sree's app",
+"short_name":"sreedee",
+"start_url:"/sree.html",
+"scope":".",
+"display":"standalone",
+"background_color":"pink",
+"theme_color":"red",
+"description":"new try",
+"dir":"ltr",
+"lang":"en-US",
+"orientation":"portrait-primary",
+"icons":{-}
